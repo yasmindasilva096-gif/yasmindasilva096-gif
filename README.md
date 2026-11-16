@@ -6,9 +6,9 @@ Sou estudante do curso de Desenvolvimento de Sistemas
 - Pretendo fazer cursar farmácia ou biomedicina
 
 ## Habilidades
-Habilidades técnicas
-Soft Skils
-.[![Python]_(https://img.shields.io/badge/Python-4584b66?style=plastic)_](#)
+- Habilidades técnicas
+- Soft Skils
+- [![Python](https://img.shields.io/badge/Python-4584b66?style=plastic)](#)
 
 ## Interesses
 Em minhas horas vagas, costumo sempre tentar buscar novos hobbies e passatempos
